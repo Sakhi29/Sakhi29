@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakhi Rotliwala</h1>
+<img align = "right" alt = "coding" width = 400 src = "https://dribbble.com/shots/7736965-Work-at-home/attachments/439076?mode=media">
 <p align="left"> <a href="https://twitter.com/rotliwalasakhi" target="blank"><img src="https://img.shields.io/twitter/follow/rotliwalasakhi?logo=twitter&style=for-the-badge" alt="rotliwalasakhi" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@rotliwalasakhi](https://medium.com/@rotliwalasakhi)
