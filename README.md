@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakhi Rotliwala</h1>
-<img align = "right" alt = "coding" width = 400 src = "[https://dribbble.com/shots/7736965-Work-at-home/attachments/439076?mode=media](https://dribbble.com/shots/7736965-Work-at-home?utm_source=Clipboard_Shot&utm_campaign=anthony_v&utm_content=Work%20at%20home&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=anthony_v&utm_content=Work%20at%20home&utm_medium=Social_Share)">
+<img align = "right" alt = "coding" width = 400 src = "https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif">
 <p align="left"> <a href="https://twitter.com/rotliwalasakhi" target="blank"><img src="https://img.shields.io/twitter/follow/rotliwalasakhi?logo=twitter&style=for-the-badge" alt="rotliwalasakhi" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@rotliwalasakhi](https://medium.com/@rotliwalasakhi)
