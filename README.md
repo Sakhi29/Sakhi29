@@ -1,6 +1,8 @@
 <img align = "center" alt = "coding" width = 100% height = 380 src = "https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif">
 <h1 align="center">Hi 👋, I'm Sakhi Rotliwala </h1>
 <h3 align="center">AI is the future, and I'm helping to build it.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhi29&label=Profile%20views&color=0e75b6&style=flat" alt="sakhi29" /> </p>
 <p align="left"> <a href="https://twitter.com/rotliwalasakhi" target="blank"><img src="https://img.shields.io/twitter/follow/rotliwalasakhi?logo=twitter&style=for-the-badge" alt="rotliwalasakhi" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
