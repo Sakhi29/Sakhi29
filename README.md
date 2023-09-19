@@ -1,4 +1,4 @@
-<img align = "center" alt = "coding" width = 1000 height = 450 src = "https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif">
+<img align = "center" alt = "coding" width = 1000 height = 400 src = "https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif">
 <h1 align="center">Hi 👋, I'm Sakhi Rotliwala </h1>
 
 <p align="left"> <a href="https://twitter.com/rotliwalasakhi" target="blank"><img src="https://img.shields.io/twitter/follow/rotliwalasakhi?logo=twitter&style=for-the-badge" alt="rotliwalasakhi" /></a> </p>
