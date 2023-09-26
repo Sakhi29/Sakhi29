@@ -33,7 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakhi29&show_icons=true&locale=en" alt="sakhi29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakhi29&" alt="sakhi29" /></p>
-<h3> Badges:</h3>
+
+<h3 align="left"> Badges:</h3>
 [![An image of @sakhi29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakhi29)](https://holopin.io/@sakhi29)
 
 
