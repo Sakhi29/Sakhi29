@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sakhi Rotliwala </h1>
 <h3 align="center">AI is the future, and I'm helping to build it.</h3>
 
+[![An image of @sakhi29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakhi29)](https://holopin.io/@sakhi29)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhi29&label=Profile%20views&color=0e75b6&style=flat" alt="sakhi29" /> </p>
 <p align="left"> <a href="https://twitter.com/rotliwalasakhi" target="blank"><img src="https://img.shields.io/twitter/follow/rotliwalasakhi?logo=twitter&style=for-the-badge" alt="rotliwalasakhi" /></a> </p>
 
