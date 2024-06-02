@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakhi29&label=Profile%20views&color=0e75b6&style=flat" alt="sakhi29" /> </p>
 <p align="left"> <a href="https://twitter.com/rotliwalasakhi" target="blank"><img src="https://img.shields.io/twitter/follow/rotliwalasakhi?logo=twitter&style=for-the-badge" alt="rotliwalasakhi" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **ML,DL,Pyhton Development etc..**
+- 💬 Ask me about **Reactjs, Nextjs, AI & ML**
 
 - 📫 How to reach me **rotliwalasakhi@gmail.com**
 
